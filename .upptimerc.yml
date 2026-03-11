@@ -1,0 +1,22 @@
+owner: Sammons
+repo: webhookstorage-status
+
+sites:
+  - name: Ingest Service
+    url: https://in.webhookstorage.com/health
+  - name: API Service
+    url: https://api.webhookstorage.com/health
+  - name: Landing Page
+    url: https://webhookstorage.com
+
+status-website:
+  cname: status.webhookstorage.com
+  logoUrl: https://webhookstorage.com/favicon.ico
+  name: Webhookstorage Status
+  introTitle: "**webhookstorage.com** service status"
+  introMessage: Real-time uptime monitoring for webhookstorage.com services.
+  navbar:
+    - title: Status
+      href: /
+    - title: webhookstorage.com
+      href: https://webhookstorage.com
