@@ -4,18 +4,20 @@
     "url": "https://in.webhookstorage.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/in.webhookstorage.com.ico",
     "slug": "ingest-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 166,
-    "timeWeek": 246,
-    "timeMonth": 187,
-    "timeYear": 191,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.96%",
+    "time": 190,
+    "timeDay": 144,
+    "timeWeek": 230,
+    "timeMonth": 185,
+    "timeYear": 190,
+    "dailyMinutesDown": {
+      "2026-06-09": 51
+    }
   },
   {
     "name": "API Service",
